@@ -1,5 +1,13 @@
-# vote-application-docker
-A Voting application, containing votes for Cats and Dogs, every time you click.
+# Vote-application-docker
+=========
+
+A simple distributed application running across multiple Docker containers.
+
+Getting started
+---------------
+
+Download [Docker Desktop](https://www.docker.com/products/docker-desktop) for Mac or Windows. [Docker Compose](https://docs.docker.com/compose) will be automatically installed. On Linux, make sure you have the latest version of [Compose](https://docs.docker.com/compose/install/). 
+
 
 * A front-end web app written in Python or ASP.NET Core that allows you to choose between two solutions.\
 * A Redis or NATS queue for collecting new votes.
